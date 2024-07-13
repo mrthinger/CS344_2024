@@ -1,6 +1,6 @@
 Need:
 - `/usr/local/cuda/include`
-- `/usr/include/opencv4`
+- `/usr/include/opencv4` (apt install libopencv-dev)
 
 To build
 ```sh
