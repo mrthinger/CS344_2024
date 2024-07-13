@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "*.spice": "spice",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "string": "cpp"
     },
     "cmake.configureOnOpen": false
 }

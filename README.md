@@ -1,14 +1,9 @@
-These assignments require OpenCV as a prerequisite. The easiest way to install is probably with conda.
-
-To install OpenCV in a conda environment.
-```
-conda create -n cs344 -y
-conda activate cs344
-conda install -y -c anaconda opencv
-```
+Need:
+- `/usr/local/cuda/include`
+- `/usr/include/opencv4`
 
 To build
-```
+```sh
 cd assignments
 mkdir build
 cd build
